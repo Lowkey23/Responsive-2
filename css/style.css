@@ -20,7 +20,7 @@
 }
 .navigation-li {
 	padding-left: 100px;
-	font-family: 'roboto', sans-serif;
+	font-family: 'Playfair Display', serif;
 }
 .container2 {
 	max-width: 1170px;
@@ -44,6 +44,7 @@
 }
 .text2 {
 	color: #626262;
+	font-family: 'Playfair Display', serif;
 	font-size: 26px;
 	position: absolute;
 	margin-top: 780px;
@@ -51,6 +52,7 @@
 }
 .text3 {
 	color: #626262;
+	font-family: 'Playfair Display', serif;
 	width: 105%;
 	margin-top: 840px;
 	position: absolute;
@@ -59,6 +61,7 @@
 }
 .text4 {
 	color: #626262;
+	font-family: 'Playfair Display', serif;
 	padding-top: 25px;
 	position: absolute;
 	font-size: 16px;
@@ -68,6 +71,7 @@
 }
 .text5 {
 	color: #626262;
+	font-family: 'Playfair Display', serif;
 	padding-top: 30px;
 	position: absolute;
 	font-size: 16px;
@@ -77,6 +81,7 @@
 }
 .text6 {
 	color: #626262;
+	font-family: 'Playfair Display', serif;
 	padding-top: 35px;
 	position: absolute;
 	font-size: 16px;
@@ -86,6 +91,7 @@
 }
 .text7 {
 	color: #626262;
+	font-family: 'Playfair Display', serif;
 	padding-top: 40px;
 	position: absolute;
 	font-size: 16px;
@@ -95,6 +101,7 @@
 }
 .text8 {
 	color: #626262;
+	font-family: 'Playfair Display', serif;
 	padding-top: 45px;
 	position: absolute;
 	font-size: 16px;
@@ -105,6 +112,7 @@
 .text9 {
 	color: #626262;
 	padding-top: 50px;
+	font-family: 'Playfair Display', serif;
 	position: absolute;
 	font-size: 16px;
 	left: 11.8%;
@@ -156,6 +164,7 @@
 }
 .p3 {
 	font-size: 26px;
+	font-family: 'Playfair Display', serif;
 	position: absolute;
 	top: 1590px;
 	left: 9.4%;
@@ -163,6 +172,7 @@
 }
 .p4 {
 	font-size: 26px;
+	font-family: 'Playfair Display', serif;
 	position: absolute;
 	top: 1590px;
 	left: 51%;
@@ -170,6 +180,7 @@
 	padding-bottom: 40px;
 }
 .p5 {
+	font-family: 'Playfair Display', serif;
 	position: absolute;
 	font-size: 16px;
 	top: 1650px;
@@ -179,6 +190,7 @@
 }
 .p6 {
 	position: absolute;
+	font-family: 'Playfair Display', serif;
 	font-size: 16px;
 	top: 1650px;
 	left: 51%;
@@ -218,6 +230,7 @@
 }
 .p9 {
 	font-size: 26px;
+	font-family: 'Playfair Display', serif;
 	position: absolute;
 	top: 2250px;
 	left: 9.4%;
@@ -225,6 +238,7 @@
 }
 .p10 {
 	font-size: 26px;
+	font-family: 'Playfair Display', serif;
 	position: absolute;
 	top: 2250px;
 	left: 51%;
@@ -232,6 +246,7 @@
 }
 .p11 {
 	position: absolute;
+	font-family: 'Playfair Display', serif;
 	font-size: 16px;
 	top: 2300px;
 	left: 9.4%;
@@ -241,6 +256,7 @@
 }
 .p12 {
 	position: absolute;
+	font-family: 'Playfair Display', serif;
 	font-size: 16px;
 	top: 2300px;
 	left: 51%;
@@ -255,6 +271,7 @@
 }
 .container4 p{
 	position: absolute;
+	font-family: 'Playfair Display', serif;
 	font-size: 26px;
 	color: black;
 	left: 40%;
@@ -275,6 +292,7 @@
 	left: 39.5%;
 }
 .divider p {
+	font-family: 'Playfair Display', serif;
 	position: absolute;
 	margin-top: -38px;
 	font-size: 16px;
