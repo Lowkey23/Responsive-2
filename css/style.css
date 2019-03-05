@@ -1,0 +1,282 @@
+.container {
+	max-width: 1170px
+	width: 100%
+	margin: 0 auto;
+	margin-bottom: 20px;
+}
+.flex {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.logo {
+	width: 150px;
+	margin-left: 60px;
+	margin-top: -10px;
+}
+.navigation-ul {
+	margin-right: 80px;
+	margin-bottom: 17px;
+}
+.navigation-li {
+	padding-left: 100px;
+	font-family: 'roboto', sans-serif;
+}
+.container2 {
+	max-width: 1170px;
+	width: 100%;
+	position: relative;
+}
+.img {
+	position: absolute;
+	width: 1372px;
+	height: 640px;
+	left: 6%;
+	top: 5%;
+}
+.text1 {
+	font-family: 'roboto', bold;
+	color: #b4ad9e;
+	font-size: 12px;
+	position: absolute;
+	margin-top: 730px;
+	left: 12%;
+}
+.text2 {
+	color: #626262;
+	font-size: 26px;
+	position: absolute;
+	margin-top: 780px;
+	left: 11.8%;
+}
+.text3 {
+	color: #626262;
+	width: 105%;
+	margin-top: 840px;
+	position: absolute;
+	font-size: 16px;
+	left: 11.8%;
+}
+.text4 {
+	color: #626262;
+	padding-top: 25px;
+	position: absolute;
+	font-size: 16px;
+	left: 11.8%;
+	margin-top: 840px;
+	width: 105%;
+}
+.text5 {
+	color: #626262;
+	padding-top: 30px;
+	position: absolute;
+	font-size: 16px;
+	left: 11.8%;
+	margin-top: 860px;
+	width: 105%;
+}
+.text6 {
+	color: #626262;
+	padding-top: 35px;
+	position: absolute;
+	font-size: 16px;
+	left: 11.8%;
+	margin-top: 880px;
+	width: 105%;
+}
+.text7 {
+	color: #626262;
+	padding-top: 40px;
+	position: absolute;
+	font-size: 16px;
+	left: 11.8%;
+	margin-top: 900px;
+	width: 105%;
+}
+.text8 {
+	color: #626262;
+	padding-top: 45px;
+	position: absolute;
+	font-size: 16px;
+	left: 11.8%;
+	margin-top: 920px;
+	width: 105%;
+}
+.text9 {
+	color: #626262;
+	padding-top: 50px;
+	position: absolute;
+	font-size: 16px;
+	left: 11.8%;
+	margin-top: 940px;
+	width: 105%;
+}
+.text10 {
+	padding-top: 65px;
+	color: #b4ad9e;
+	font-family: 'roboto', bold;
+	position: absolute;
+	font-size: 12px;
+	left: 11.8%;
+	margin-top: 980px;
+	padding-bottom: 140px;
+}
+.container3 {
+	position: relative;
+
+}
+.image {
+	position: absolute;
+	top: 1200px;
+	width: 550px;
+	left: 9.4%;
+}
+.image2 {
+	position: absolute;
+	top: 1200px;
+	width: 550px;
+	left: 51%;
+	padding-bottom: 40px;
+}
+.p1 {
+	font-size: 12px;
+	font-family: 'roboto', bold;
+	position: absolute;
+	top: 1550px;
+	left: 9.4%;
+	color: #b4ad9e;
+}
+.p2 {
+	font-size: 12px;
+	font-family: 'roboto', bold;
+	position: absolute;
+	top: 1550px;
+	left: 51%;
+	color: #b4ad9e;
+}
+.p3 {
+	font-size: 26px;
+	position: absolute;
+	top: 1590px;
+	left: 9.4%;
+	color: #626262;
+}
+.p4 {
+	font-size: 26px;
+	position: absolute;
+	top: 1590px;
+	left: 51%;
+	color: #626262;
+	padding-bottom: 40px;
+}
+.p5 {
+	position: absolute;
+	font-size: 16px;
+	top: 1650px;
+	left: 9.4%;
+	color: #626262;
+	width: 550px;
+}
+.p6 {
+	position: absolute;
+	font-size: 16px;
+	top: 1650px;
+	left: 51%;
+	color: #626262;
+	width: 550px;
+	padding-bottom: 100px;
+}
+.image3 {
+	position: absolute;
+	top: 1850px;
+	left: 9.4%;
+	width: 550px;
+	padding-bottom: 50px;
+}
+.image4 {
+	position: absolute;
+	top: 1850px;
+	left: 51%;
+	width: 550px;
+	height: 342px;
+}
+.p7 {
+	font-size: 12px;
+	font-family: 'roboto', bold;
+	position: absolute;
+	top: 2220px;
+	left: 9.4%;
+	color: #b4ad9e;
+}
+.p8 {
+	font-size: 12px;
+	font-family: 'roboto', bold;
+	position: absolute;
+	top: 2220px;
+	left: 51%;
+	color: #b4ad9e;
+}
+.p9 {
+	font-size: 26px;
+	position: absolute;
+	top: 2250px;
+	left: 9.4%;
+	color: #626262;
+}
+.p10 {
+	font-size: 26px;
+	position: absolute;
+	top: 2250px;
+	left: 51%;
+	color: #626262;
+}
+.p11 {
+	position: absolute;
+	font-size: 16px;
+	top: 2300px;
+	left: 9.4%;
+	color: #626262;
+	width: 550px;
+	padding-bottom: 100px;
+}
+.p12 {
+	position: absolute;
+	font-size: 16px;
+	top: 2300px;
+	left: 51%;
+	color: #626262;
+	width: 550px;
+}
+.container4 {
+	position: relative;
+	background-color: #f0f0f0;
+	height: 350px;
+	margin-top: 2500px;
+}
+.container4 p{
+	position: absolute;
+	font-size: 26px;
+	color: #4f4f4f;
+	left: 40%;
+	top: 20%;
+}
+.plane {
+	position: absolute;
+	width: 30px;
+	left: 57.5%;
+	top: 58%;
+}
+.divider {
+	background-color: black;
+	width: 300px;
+	height: 0.5px;
+	position: absolute;
+	top: 70%;
+	left: 39.5%;
+}
+.divider p {
+	position: absolute;
+	margin-top: -38px;
+	font-size: 16px;
+	left: 0%;
+}
