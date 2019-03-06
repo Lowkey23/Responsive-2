@@ -164,35 +164,33 @@
 }
 .p3 {
 	font-size: 26px;
-	font-family: 'Playfair Display', serif;
 	position: absolute;
-	top: 1590px;
+	top: 1580px;
 	left: 9.4%;
 	color: #626262;
+	padding-bottom: 30px;
+	padding-top: 20px;
 }
 .p4 {
 	font-size: 26px;
-	font-family: 'Playfair Display', serif;
 	position: absolute;
 	top: 1590px;
 	left: 51%;
 	color: #626262;
-	padding-bottom: 40px;
+	padding-bottom: 45px;
 }
 .p5 {
-	font-family: 'Playfair Display', serif;
 	position: absolute;
 	font-size: 16px;
-	top: 1650px;
+	top: 1660px;
 	left: 9.4%;
 	color: #626262;
 	width: 550px;
 }
 .p6 {
 	position: absolute;
-	font-family: 'Playfair Display', serif;
 	font-size: 16px;
-	top: 1650px;
+	top: 1660px;
 	left: 51%;
 	color: #626262;
 	width: 550px;
@@ -269,27 +267,27 @@
 	height: 350px;
 	margin-top: 2500px;
 }
-.container4 p{
+.p13{
 	position: absolute;
 	font-family: 'Playfair Display', serif;
 	font-size: 26px;
 	color: black;
-	left: 40%;
+	left: 39%;
 	top: 20%;
 }
 .plane {
 	position: absolute;
 	width: 30px;
-	left: 57.5%;
+	left: 59.2%;
 	top: 58%;
 }
 .divider {
 	background-color: black;
-	width: 300px;
+	width: 350px;
 	height: 0.5px;
 	position: absolute;
 	top: 70%;
-	left: 39.5%;
+	left: 38%;
 }
 .divider p {
 	font-family: 'Playfair Display', serif;
@@ -297,4 +295,138 @@
 	margin-top: -38px;
 	font-size: 16px;
 	left: 0%;
+}
+.image5 {
+	position: absolute;
+	top: 460px;
+	left: 9.4%;
+	width: 550px;
+	height: 342px;
+	margin-bottom: 150px;
+}
+.image6 {
+	position: absolute;
+	top: 460px;
+	left: 51%;
+	width: 550px;
+	height: 342px;
+}
+.p14 {
+	font-size: 12px;
+	margin-top: 830px;
+	font-family: 'roboto', bold;
+	position: absolute;
+	margin-left: 143px;
+	color: #b4ad9e;
+}
+.p15 {
+	margin-top: 830px;
+	font-size: 12px;
+	font-family: 'roboto', bold;
+	position: absolute;
+	margin-left: 775px;
+	color: #b4ad9e;
+}
+.p16 {
+	font-size: 26px;
+	font-family: 'Playfair Display', serif;
+	position: absolute;
+	top: 870px;
+	left: 9.4%;
+	color: #626262;
+}
+.p17 {
+	font-size: 26px;
+	font-family: 'Playfair Display', serif;
+	position: absolute;
+	top: 870px;
+	left: 51%;
+	color: #626262;
+}
+.p18 {
+	position: absolute;
+	font-family: 'Playfair Display', serif;
+	font-size: 16px;
+	top: 930px;
+	left: 9.4%;
+	color: #626262;
+	width: 550px;
+}
+.p19 {
+	position: absolute;
+	font-family: 'Playfair Display', serif;
+	font-size: 16px;
+	top: 930px;
+	left: 51%;
+	color: #626262;
+	width: 550px;
+}
+.container5 {
+	position: relative;
+}
+#loadMore {
+	margin-top: 730px;
+	margin-left: -20px;
+	position: absolute;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 70px;
+}
+#loadMore a {
+    background: #006666;
+    border-radius: 3px;
+    color: white;
+    display: inline-block;
+    padding: 10px 30px;
+    transition: all 0.25s ease-out;
+    -webkit-font-smoothing: antialiased;
+}
+#loadMore a:hover {
+    background-color: #042a63;
+}
+footer {
+	background-color: #f0f0f0;
+	margin-top: 900px;
+	position: relative;
+	width: 100%;
+	height: 50px;
+}
+footer p{
+	font-family: 'Playfair Display', serif;
+	margin-top: 17px;
+	left: 9.4%;
+	position: absolute;
+	font-size: 14px;
+	color: #3d3d3d;
+}
+footer h3{
+	font-family: 'Playfair Display', serif;
+	left: 85%;
+	position: absolute;
+	margin-top: 17px;
+	font-size: 14px;
+	color: #3d3d3d;
+}
+.fa-facebook-f {
+	color: #3D58A6;
+	position: absolute;
+	font-size: 25px;
+	margin-top: 10px;
+	left: 90%;
+}
+.fa-twitter {
+	color: #3498DB;
+	position: absolute;
+	font-size: 25px;
+	margin-top: 10px;
+	left: 92%;
+}
+.fa-instagram {
+	color: #922B21;
+	position: absolute;
+	font-size: 25px;
+	margin-top: 10px;
+	left: 94.5%;
 }
